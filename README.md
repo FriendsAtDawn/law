@@ -1,6 +1,5 @@
-# Hoy Aprendí
-
-| Post                                    |
-| --------------------------------------- |
-| [nuda-propiedad.md](nuda-propiedad.md)  |
-| [pew.md](pew.md)                        |
+# Hoy Aprendí   
+| Post |
+| ------ |
+| [nuda-propiedad.md](nuda-propiedad.md) |
+| [pew.md](pew.md) |
