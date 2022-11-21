@@ -17,8 +17,8 @@ rm dir.txt
 
 input="dir.txt"
       
-      echo "| Post |  " >> README.md
-      echo "| ------ |  " >> README.md
+      echo "| Post |" >> README.md
+      echo "| ------ |" >> README.md
      
       
 
@@ -26,7 +26,7 @@ input="dir.txt"
 
          do
 
-             echo "| ["$line"]("$line") |   " >> README.md
+             echo "| ["$line"]("$line") |" >> README.md
            
          done < "$input"  
 
